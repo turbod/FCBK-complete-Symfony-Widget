@@ -1,0 +1,8 @@
+$this->widgetSchema['venue_id'] = new sfWidgetFormFCBKComplete(array(
+            'json_url'      => "http://koncert.localhost/osszes_helyszin",
+            'complete_text' => "Kezdjen el írni...",
+            'maxitems'      => 1,
+            'height'        => 2,
+            'model'         => 'Venue',
+            'title'         => 'name'
+        ));
