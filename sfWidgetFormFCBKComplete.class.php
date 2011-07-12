@@ -8,10 +8,10 @@
  * @category
  * @package
  * @subpackage 
- * @author     Tóth Norbert <toth.norbert@konstruktor.hu>
+ * @author     Tóth Norbert <tothnorbert.zalalovo@gmail.com>
  * @license    http://opensource.org/licenses/gpl-license.php GNU Public License
  * @version    SVN: $Id: actions.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
- * @link       www.konstruktor.hu
+ * @link       
  */
 
 class sfWidgetFormFCBKComplete extends sfWidgetForm
